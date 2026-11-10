@@ -1,0 +1,7 @@
+{
+  "VersionCode": 2,
+  "VersionName": "1.1.0",
+  "ApkUrl": "https://github.com/zhukovgit/RentRecord/releases/download/v1.1.0/RentRecord.apk",
+  "ReleaseNotes": "Bug fixes, performance improvements, and OTA update integration.",
+  "IsMandatory": false
+}
