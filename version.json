@@ -5,6 +5,6 @@
   "TenantApkUrl": "https://github.com/zhukovgit/RentRecord/releases/download/v1.1.0/RentRecord_Tenant_v1.1.0.apk",
   "LandlordWindowsUrl": "https://github.com/zhukovgit/RentRecord/releases/download/v1.1.0/RentRecord_Landlord_Setup.exe",
   "TenantWindowsUrl": "https://github.com/zhukovgit/RentRecord/releases/download/v1.1.0/RentRecord_Tenant_Setup.exe",
-  "ReleaseNotes": "Production Build 2: Multi-platform Windows support, assembly trimming size optimization, and mode-aware update routing.",
+  "ReleaseNotes": "Production Build 2: Added Windows desktop update support, reduced APK file size by ~50%, and updated mode-aware update routing.",
   "IsMandatory": false
 }
