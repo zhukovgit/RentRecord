@@ -1,5 +1,5 @@
 {
-  "VersionCode": 2,
+  "VersionCode": 3,
   "VersionName": "1.0.0",
   "LandlordApkUrl": "https://github.com/zhukovgit/RentRecord/releases/download/v1.0.0/RentRecord_Landlord.apk",
   "TenantApkUrl": "https://github.com/zhukovgit/RentRecord/releases/download/v1.0.0/RentRecord_Tenant.apk",
