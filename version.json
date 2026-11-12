@@ -1,10 +1,10 @@
 {
-  "VersionCode": 1,
+  "VersionCode": 2,
   "VersionName": "1.0.0",
   "LandlordApkUrl": "https://github.com/zhukovgit/RentRecord/releases/download/v1.0.0/RentRecord_Landlord.apk",
   "TenantApkUrl": "https://github.com/zhukovgit/RentRecord/releases/download/v1.0.0/RentRecord_Tenant.apk",
   "LandlordWindowsUrl": "https://github.com/zhukovgit/RentRecord/releases/download/v1.0.0/RentRecord_Landlord_Win.zip",
   "TenantWindowsUrl": "https://github.com/zhukovgit/RentRecord/releases/download/v1.0.0/RentRecord_Tenant_Win.zip",
-  "ReleaseNotes": "Production Build 1 (v1.0.0): Initial release for Windows and Android.",
+  "ReleaseNotes": "Production Build 2 (v1.0.0): Initial release for Windows and Android.",
   "IsMandatory": false
 }
